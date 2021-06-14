@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Ý nghĩa các loài hoa lan	</title>
+	<atom:link href="http://localhost/wordpress/art/y-nghia-cac-loai-hoa-lan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lanlan2k.github.io/lanlanwordpress/art/y-nghia-cac-loai-hoa-lan/</link>
+	<description>Quý khách có nhu cầu giao hoa vào ngày Chủ nhật tại HCM, vui lòng đặt hoa sớm trước 1 ngày.</description>
+	<lastBuildDate>Mon, 14 Jun 2021 10:11:25 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: Nguyễn Hoàng Chí Bảo		</title>
+		<link>https://lanlan2k.github.io/lanlanwordpress/art/y-nghia-cac-loai-hoa-lan/#comment-40</link>
+
+		<dc:creator><![CDATA[Nguyễn Hoàng Chí Bảo]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 09:58:21 +0000</pubDate>
+		<guid isPermaLink="false">https://lanlan2k.github.io/lanlanwordpress/?p=854#comment-40</guid>
+
+					<description><![CDATA[thương chị Lan]]></description>
+			<content:encoded><![CDATA[<p>thương chị Lan</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: le lan		</title>
+		<link>https://lanlan2k.github.io/lanlanwordpress/art/y-nghia-cac-loai-hoa-lan/#comment-36</link>
+
+		<dc:creator><![CDATA[le lan]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 09:56:23 +0000</pubDate>
+		<guid isPermaLink="false">https://lanlan2k.github.io/lanlanwordpress/?p=854#comment-36</guid>
+
+					<description><![CDATA[thich quá!!]]></description>
+			<content:encoded><![CDATA[<p>thich quá!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
